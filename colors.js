@@ -1,12 +1,10 @@
 module.exports = [
-	'#01888C', // teal
-  '#FC7500', // bright orange
-  '#034F5D', // dark teal
-  '#F73F01', // orangered
-  '#FC1960', // magenta
-  '#C7144C', // raspberry
-  '#F3C100', // goldenrod
-  '#1598F2', // lightning blue
-  '#2465E1', // sail blue
-  '#F19E02', // gold
-]
+  '#245cb3', // Dark blue
+  '#b4ccfa', // lightning blue
+  '#528beb', // sail blue
+  '#05c0a0', // Smilo green
+  '#003945', // Smilo Dark green
+  '#a7a7a7', // Mr. grey
+  '#0f728d', // website smilo color
+  '#032b3f' // weird blue
+];
