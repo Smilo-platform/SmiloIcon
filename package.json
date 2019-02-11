@@ -1,5 +1,5 @@
 {
-  "name": "smiloicon",
+  "name": "@smilo-platform/smiloicon",
   "version": "2.0.0",
   "description": "Idonticons in a new colorscheme. Forked from danfinlay/jazzicon",
   "main": "index.js",
