@@ -1,17 +1,17 @@
-# SmiloIcon
+# DiduxIcon
 ## Identicons
 
 [Live Example](http://requirebin.com/?gist=64341df46d79cc72567417c022e9d0ee)
 
 Say goodbye to boring blocky identicons that look like they came out of the 70s, and replace them with colorful collages that more likely came out of the 80's.
-Colors are inspired on the Smilo website, logo and more.
+Colors are inspired on the Didux website, logo and more.
 
 ![example](./example.png)
 
 ## Installation
 
 ```
-npm install smiloicon -S
+npm install diduxicon -S
 ```
 
 ## Usage
@@ -19,11 +19,11 @@ npm install smiloicon -S
 Takes a pixel diameter and a javascript integer (seeds the shape), and gives you back a DOM element to use as you wish!
 
 ```javascript
-var smiloicon = require('smiloicon')
+var diduxicon = require('diduxicon')
 
 var body = document.querySelector('body')
 for(var i = 0; i < 60; i++) {
-  var el = smiloicon(100, Math.round(Math.random() * 10000000))
+  var el = diduxicon(100, Math.round(Math.random() * 10000000))
   body.appendChild(el)
 }
 ```
